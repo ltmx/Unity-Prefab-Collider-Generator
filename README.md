@@ -16,16 +16,16 @@ Unity PGE Generates a Box-Collider Encapsulating Every Child Mesh / Collider / T
 <h3>Instructions</h3>
 <blockquote><p>
 1 - Add the Prefab Collider Generator Script onto any gameobject
-2 - Change the target GameObject if needed
-3 - Select the generation mode : From Meshes / Colliders / Transforms, depending on you needs
-4 - Click on "Generate Collider"
+<br>2 - Change the target GameObject if needed
+<br>3 - Select the generation mode : From Meshes / Colliders / Transforms, depending on you needs
+<br>4 - Click on "Generate Collider"
 
 </p></blockquote> 
 
 <h3>Additional Features</h3>
 <blockquote><p>
 Click "Clear Duplicate Colliders" to remove unnecessary box colliders from the target GameObject
-Click "Assign Self" to force self assigning (The script normally does it automatically upon enabling)
+<br>Click "Assign Self" to force self assigning (The script normally does it automatically upon enabling)
 </p></blockquote> 
 
 
