@@ -13,13 +13,15 @@ Unity PGE Generates a Box-Collider Encapsulating Every Child Mesh / Collider / T
 
 </div>
 
-<blockquote> <p>Out of the night that covers me,<br> Black as the pit from pole to pole,<br> I thank whatever gods may be<br> For my unconquerable soul.</p></blockquote> 
 
+<blockquote> <p>
 Instructions :
-1 - Add the Prefab Collider Generator Script onto any gameobject
-2 - Change the target GameObject if needed
-3 - Select the generation mode : From Meshes / Colliders / Transforms, depending on you needs
-4 - Click on "Generate Collider"
+<br>1 - Add the Prefab Collider Generator Script onto any gameobject
+<br>2 - Change the target GameObject if needed
+<br>3 - Select the generation mode : From Meshes / Colliders / Transforms, depending on you needs
+<br>4 - Click on "Generate Collider"
+
+</p></blockquote> 
 
 Additional Features:
 Click "Clear Duplicate Colliders" to remove unnecessary box colliders from the target GameObject
