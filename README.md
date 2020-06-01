@@ -10,12 +10,11 @@ Unity PGE Generates a Box-Collider Encapsulating Every Child Mesh / Collider / T
 
 
 <img src="https://github.com/LTMX/Unity-Prefab-Collider-Generator/blob/master/Unity%20Prefab%20Collider%20Generator%20v1.0/Tutorial/Unity%20Collider%20Generator%20Wiki%20-%20Inspector%20Window.png">
-
+<br>
 </div>
 
-<br>
 <h3>Instructions</h3>
-<blockquote> <p>
+<blockquote><p>
 <br>1 - Add the Prefab Collider Generator Script onto any gameobject
 <br>2 - Change the target GameObject if needed
 <br>3 - Select the generation mode : From Meshes / Colliders / Transforms, depending on you needs
