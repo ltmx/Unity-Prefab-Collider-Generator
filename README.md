@@ -1,5 +1,5 @@
 # Unity-Prefab-Collider-Generator
-<h3>Unity PGE Generates a Box-Collider Encapsulating Every Child Mesh / Collider / Transform</h3>
+<h3>Unity PCG Generates a Box-Collider Encapsulating Every Child Mesh / Collider / Transform</h3>
 
 <div display="inline">
 <img src="https://github.com/LTMX/Unity-Prefab-Collider-Generator/blob/master/Unity%20Prefab%20Collider%20Generator%20v1.0/Tutorial/Unity%20Collider%20Generator%20Wiki%20-%20From%20Meshes.png" width="248" height="217">
