@@ -4,8 +4,6 @@ using System.Linq;
 using UnityEngine;
 using Debug = UnityEngine.Debug;
 
-namespace Unity_Prefab_Collider_Generator_v1._0
-{
     [ExecuteInEditMode]
     public class PrefabColliderGenerator : MonoBehaviour
     {
@@ -102,7 +100,7 @@ namespace Unity_Prefab_Collider_Generator_v1._0
         private static Bounds MultiplyBoundsByVector3(Bounds b, Vector3 v)
         {
             var b1 = b;
-            b1.size = Vector3Multiply(b.size, v);
+            b1.size = Vector3.Scale(b.size, v);
             return b1;
         }
 
@@ -125,4 +123,3 @@ namespace Unity_Prefab_Collider_Generator_v1._0
             Colliders,
         }
     }
-}

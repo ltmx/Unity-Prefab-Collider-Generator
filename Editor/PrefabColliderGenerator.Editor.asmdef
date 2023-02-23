@@ -1,0 +1,16 @@
+{
+    "name": "PrefabColliderGenerator.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f123b5005c1dbfa49bfa4d82491d22a5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
