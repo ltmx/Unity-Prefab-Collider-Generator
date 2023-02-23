@@ -1,0 +1,17 @@
+{
+  "name": "com.ltmx.unity-prefab-collider-generator",
+  "displayName": "Prefab Collider Generator",
+  "description": "Generates a collider that encapsulates all sub objects of a parent object",
+  "version": "1.0.0",
+  "keywords": [
+    "mesh",
+    "primitive",
+    "custom",
+    "utility"
+  ],
+  "author": {
+    "name": "LTMX",
+    "email": "nicolasreinhard.pro@gmail.com",
+    "url": "https://github.com/LTMX"
+  }
+}
