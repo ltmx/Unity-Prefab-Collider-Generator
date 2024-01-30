@@ -1,4 +1,4 @@
-# Unity-Prefab-Collider-Generator
+# Unity Prefab Collider Generator
 
 ### Unity PCG Generates a ``BoxCollider`` Encapsulating Every Child ``Mesh``, ``Collider`` or ``Transform``
 
