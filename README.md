@@ -2,6 +2,8 @@
 
 ### Unity PCG Generates a ``BoxCollider`` Encapsulating Every Child ``Mesh``, ``Collider`` or ``Transform``
 
+[![Made for Unity](https://img.shields.io/badge/Made%20for-Unity-57b9d3.svg?style=for-the-badge&logo=unity&color=blueviolet)](https://unity3d.com)
+
 <div display="inline">
 	<img src=".documentation/Unity%20Collider%20Generator%20Wiki%20-%20From%20Meshes.png" width="248" height="217">
 	<img src=".documentation/Unity%20Collider%20Generator%20Wiki%20-%20From%20Colliders.png" width="248" height="217">
